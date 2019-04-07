@@ -1,4 +1,3 @@
-learn
 var index = require("../index.js")
 
 /*
